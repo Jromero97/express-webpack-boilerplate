@@ -7,3 +7,12 @@ This Boilerplate contains:
 - EsLint JS Linter
 - Webpack 4
 - Express Server
+
+## Scripts
+
+`npm run build-dev` - To run development build
+
+`npm run build-production` -  To run production build
+
+`npm start` - To run Express server.
+
